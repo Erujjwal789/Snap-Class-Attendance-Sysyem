@@ -11,7 +11,7 @@ def home_screen():
 
     style_background_home()
     style_base_layout()
-    style_background_dashboard()
+   
 
 
 
